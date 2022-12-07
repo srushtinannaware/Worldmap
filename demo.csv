@@ -1,0 +1,198 @@
+country,x,y
+India,168.0,48.0
+Indonesia,299,-42
+Pakistan,113,76
+China,220.0,99.0
+Afghanistan,106.0,99.0
+Bangladesh,205,58
+Japan,332,73
+Philippines,319,26
+Vietnam,260,46
+Turkey,-2,119
+Iran,72,94
+Thailand,242,28
+Russia,154.0,205.0
+Mongolia,196.0,152.0
+Kazakhstan,105.0,152.0
+Tajikistan,116.0,118.0
+Taiwan,312.0,57.0
+Sri Lanka,174.0,-6.0
+Nepal,176.0,77.0
+Bhutan,199.0,73.0
+North Korea,309.0,123.0
+South Korea,320.0,111.0
+Australia,359.0,-136.0
+Malaysia,296.0,-25.0
+Kyrgyzstan,131.0,130.0
+Uzbekistan,95.0,129.0
+Oman,83.0,45.0
+Kuwait,47.0,81.0
+Georgia,28.0,133.0
+Azerbaijan,32.0,130.0
+Laos,248.0,43.0
+Myanmar,218.0,73.0
+Singapore,254.0,-24.0
+Maldives,143.0,-18.0
+Qatar,59.0,68.0
+Bahrain,47.0,80.0
+Jordan,9.0,89.0
+Saudi Arabia,47.0,52.0
+Canada,-454.0,186.0
+New Zealand,463.0,-196.0
+Usa,-465.0,122.0
+Tasmania,-17.0,160.0
+Turkmenistan,83.0,123.0
+U.A.E,72.0,58.0
+Armenia,32.0,124.0
+Syria,14.0,103.0
+Romania,-36.0,143.0
+Bulgaria,-11.0,137.0
+Ukraine,-18.0,160.0
+Belarus,-28.0,175.0
+Lithuania,-41.0,181.0
+Latvia,-37.0,189.0
+Estonia,-39.0,196.0
+Finland,-38.0,211.0
+Sweden,-70.0,211.0
+Norway,-102.0,203.0
+Denmark,-88.0,184.0
+Poland,-62.0,171.0
+Greece,2.0,84.0
+Israel,-18.0,64.0
+Egypt,-19.0,37.0
+Sudan,-60.0,22.0
+Chad,44.0,26.0
+Yemen,21.0,-5.0
+Ethiopia,-12.0,-9.0
+South Sudan,-59.0,71.0
+Libya,-91.0,33.0
+Niger,-88.0,96.0
+Tunisia,-3.0,-34.0
+Uganda,14.0,-34.0
+Kenya,46.0,-120.0
+Madagascar,85.0,-118.0
+Mauritius,-14.0,-51.0
+Burundi,44.0,-23.0
+Somalia,-28.0,-98.0
+Zambia,-15.0,-115.0
+Zimbabwe,0.0,-120.0
+Mozambique,-40.0,-165.0
+South Africa,-69.0,-87.0
+Angola,-67.0,-122.0
+Namibia,-35.0,-127.0
+Botswana,3.0,-64.0
+Tanzania,-50.0,-6.0
+Central African Republic,-37.0,-48.0
+Democratic Rep of the congo,-86.0,-40.0
+Gabon,-63.0,-35.0
+Congo,-90.0,166.0
+Germany,-85.0,166.0
+Italy,-80.0,137.0
+Lesotho,-23.0,-156.0
+Nigeria,-100.0,5.0
+Mali,-130.0,37.0
+Tunisia,-87.0,95.0
+Senegal,-175.0,42.0
+Mauritania,-174.0,57.0
+Algeria,-133.0,73.0
+Morocco,-152.0,87.0
+Spain,-136.0,121.0
+France,-118.0,148.0
+San Marino,-147.0,122.0
+Ireland,-143.0,173.0
+Uk,-132.0,195.0
+Iceland,-166.0,216.0
+Portugal,-156.0,123.0
+Andorra,-115.0,134.0
+Monaco,-95.0,139.0
+San marino,-81.0,142.0
+Gambia,-182.0,15.0
+Liberia,-161.0,-12.0
+Sierra leone,-171.0,-3.0
+Cabo verde,-209.0,38.0
+Brazil,-305.0,-86.0
+Peru,-400.0,-80.0
+Colombia,-399.0,-18.0
+Paraguay,-325.0,-132.0
+Uruguay,-314.0,-173.0
+Argentina,-351.0,-205.0
+Chile,-393.0,-185.0
+Bolivia,-361.0,-107.0
+Ecuador,-428.0,-42.0
+Guyana,-338.0,-14.0
+Venezuela,-370.0,1.0
+Dominican Rep,-373.0,45.0
+Haiti,-390.0,37.0
+St. kitts & nevis,-332.0,52.0
+Puerto rico,-332.0,42.0
+Barbados,-365.0,49.0
+St lucia,-336.0,28.0
+Antigua and Barbuda,-313.0,42.0
+Jamaica,-314.0,54.0
+Cuba,-415.0,27.0
+The Bahamas,-405.0,49.0
+El Salvador,-395.0,74.0
+Costa Rica,-469.0,7.0
+Nicaragua,-444.0,2.0
+Guatemala,-433.0,16.0
+Mexico,-453.0,25.0
+Dominica,-514.0,65.0
+Trinidad & Tobago,-354.0,59.0
+Suriname,-344.0,2.0
+Greenland,-327.0,-19.0
+Antarctica,-235.0,246.0
+Honduras,-103.0,-264.0
+Belize,-443.0,24.0
+Vatican city,-444.0,34.0
+Rwanda,-82.0,129.0
+Palestine,-13.0,-46.0
+Panama,-7.0,84.0
+Ghana,-508.0,-27.0
+Lebanon,-120.0,8.0
+Cyprus,-51.0,100.0
+Togo,-124.0,257.0
+Cameroon,-132.0,15.0
+Netherlands,-79.0,-10.0
+Belgium,-196.0,153.0
+Slovakia,-183.0,140.0
+Czechia,-49.0,172.0
+Bosnia,-84.0,162.0
+Austria,-78.0,149.0
+Hungary,-55.0,155.0
+Switzerland,-62.0,142.0
+Kosovo,-134.0,143.0
+Luxembourg,-103.0,117.0
+Fiji,-67.0,116.0
+Croatia,476.0,-120.0
+Slovenia,-45.0,152.0
+Marshall islands,-55.0,175.0
+Palau,489.0,-35.0
+Micronesia,427.0,-18.0
+Nauru,449.0,-29.0
+Solomon islands,451.0,-77.0
+Kiribati,340.0,-74.0
+Tuvalu,519.0,-90.0
+Timor leste,517.0,-77.0
+Papua new guinea,335.0,-81.0
+Samoa,442.0,-48.0
+Brunei,512.0,-130.0
+Eritrea,261.0,-8.0
+cote dlvoire,12.0,43.0
+Malta,-157.0,-44.0
+Sao tome,-27.0,113.0
+North Macedonia,-133.0,-79.0
+Montenegro,-83.0,139.0
+Burkina Faso,-81.0,8.0
+Eswatini,-172.0,145.0
+Comoros,-148.0,-78.0
+Djibouti,-50.0,200.0
+Malawi,-44.0,23.0
+Serbia,-159.0,100.0
+Liechtenstein,-170.0,128.0
+Albania,-82.0,10.0
+Tonga,483.0,-155.0
+Vanuata,447.0,-140.0
+Cambodia,346.0,-5.0
+Seychelles,103.0,-17.0
+Grenada,-288.0,-24.0
+Belize,-472.0,41.0
